@@ -1,0 +1,91 @@
+{
+    "Produits": [
+        {
+        "nom": "Iphone12",
+        "couleur": "Bleu Fonce",
+        "capacite": "64Gb",
+        "Prix": 130,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique iPhone12, de couleur bleu fonce, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.","• Stockage : 64 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.",
+                        "• Couleur : Superbe finition bleu Sierra sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les réseaux - insérez simplement votre carte SIM et c'est parti !",
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionic pour un multitâche fluide et une expérience utilisateur optimale.",
+                        "• État de la batterie : Capacité maximale de 95 %, pour une autonomie d’une journée entière.", "• Contenu de la boîte : Boîte d’origine et câble de charge neuf"
+                        ],
+        "images": [
+            "Produits/DarkBleu Iphone12/IMG_9662.JPG","Produits/DarkBleu Iphone12/IMG_9666.JPG", "Produits/DarkBleu Iphone12/IMG_9667.JPG",
+            "Produits/DarkBleu Iphone12/IMG_9670.JPG", "Produits/DarkBleu Iphone12/IMG_9672.JPG",
+            "Produits/DarkBleu Iphone12/IMG_9678.JPG", "Produits/DarkBleu Iphone12/IMG_9675.JPG"
+        ]
+        },
+
+         {
+        "nom": "Iphone12",
+        "couleur": "Gris",
+        "capacite": "128Gb",
+        "Prix": 135,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique iPhone12, d'un superb gris, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", 
+                        "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                        "• État de la batterie : Capacité maximale de 85 %, pour une autonomie d’une journée entière. • Contenu de la boîte : Boîte d’origine."
+                    ],
+        "images": [
+            "Produits/Grey Iphone12/T (3).JPG", "Produits/Grey Iphone12/IMG_9691.JPG", 
+            "Produits/Grey Iphone12/IMG_9693.JPG",
+            "Produits/Grey Iphone12/IMG_9695.JPG",
+            "Produits/Grey Iphone12/IMG_9722.JPG", "Produits/Grey Iphone12/IMG_9723.JPG",
+            "Produits/Grey Iphone12/IMG_9731.JPG",
+            "Produits/Grey Iphone12/Q (1).JPG", "Produits/Grey Iphone12/Q (2).JPG", 
+            "Produits/Grey Iphone12/Q (4).JPG",
+            "Produits/Grey Iphone12/T (3).JPG",
+            "Produits/Grey Iphone12/T (2).JPG"
+        ]
+        },
+
+        
+        {
+            "nom": "Iphone16",
+            "couleur": "Noir",
+            "capacite": "128Gb",
+            "Prix": 350,
+            "Statut": true, 
+            "Desciptions": ["Ce magnifique iPhone16, d'un superbe couleur noir, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.", "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.",
+                            "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", "• Couleur : Superbe finition noir sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                            "• Appareil photo : Son puissant système photo professionnel (objectifs 48 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A18 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                            "• État de la batterie : Capacité maximale de 100 %, pour une autonomie d’une journée entière.", "• Contenu de la boîte : Boîte d’origine et câble de charge neuf"
+            ],
+            "images": [
+                "Produits/Black Iphone16/IMG_9779.JPG",
+                "Produits/Black Iphone16/IMG_9780.JPG", "Produits/Black Iphone16/IMG_9781.JPG",
+                "Produits/Black Iphone16/IMG_9783.JPG",
+                "Produits/Black Iphone16/IMG_9788.JPG", "Produits/Black Iphone16/IMG_9790.JPG",
+                "Produits/Black Iphone16/IMG_9797.JPG",
+                "Produits/Black Iphone16/IMG_9814.JPG","Produits/Black Iphone16/IMG_9817.JPG", 
+                "Produits/Black Iphone16/IMG_9823.JPG"
+            ]
+        },
+
+         {
+        "nom": "Iphone13 Pro",
+        "couleur": "Doree",
+        "capacite": "128Gb",
+        "Prix": 215,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique iPhone13 Pro, d'un superbe couleur d’or, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.", "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", 
+         "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+         "• Appareil photo : Son puissant système photo professionnel (objectifs 45 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A15 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", "État de la batterie : Capacité maximale de 100 %, pour une autonomie d’une journée entière.", "• Contenu de la boîte : Boîte de remplacement."
+         ],
+        "images": [
+            "Produits/Gold Iphone13 Pro/IMG_9777.JPG",
+            "Produits/Gold Iphone13 Pro/IMG_9751.JPG",
+            "Produits/Gold Iphone13 Pro/IMG_9756.JPG", "Produits/Gold Iphone13 Pro/IMG_9758.JPG",
+            "Produits/Gold Iphone13 Pro/IMG_9762.JPG", "Produits/Gold Iphone13 Pro/IMG_9767.JPG",
+            "Produits/Gold Iphone13 Pro/IMG_9770.JPG", "Produits/Gold Iphone13 Pro/IMG_9771.JPG",
+            "Produits/Gold Iphone13 Pro/IMG_9772.JPG", 
+            "Produits/Gold Iphone13 Pro/IMG_9775.JPG"
+        ]
+        }
+    ]
+}

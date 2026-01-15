@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KokoStore</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/0c7f4411f3.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <nav>
+        <a href="#"><img src="/Public/images/logo.svg" alt="img" width="70px" id="logo"></a>
+        <div class="navigation">
+            <ul id="navbar">
+                <i id="menu-close" class="fa-solid fa-xmark"></i>
+                <li><a class="active" href="#hero" id="nav-link">Maison</a></li>
+                <li><a href="#feature" id="nav-link">A Propos</a></li>
+                <li><a href="#product1" id="nav-link">Shopper</a></li>
+                <li><a href="#client" id="nav-link">Commander</a></li>
+                <li><a href="#banner" id="nav-link">Promotions</a></li>
+                <li><a href="#contacts" id="nav-link">Joindre</a></li>
+            </ul>
+            <i id="menu-btn" class="fa-solid fa-bars"></i>
+        </div>
+    </nav>
+
+    <section id="hero" class="">
+        <div id="text" class="">
+            <h2>Deals super valeureux</h2>
+            <h1>Sur tous nos Produits</h1>
+            <p>Sauvegarder plus en nous choisissant</p>
+            <a href="#product1"><button id="shop">Shopper maintenant</button></a>
+        </div>
+        <div id="tuto" class="active">
+            <div id="command" class="">
+                <i class="fa-solid fa-chevron-left" id="open"></i>
+                <i class="fa-solid fa-chevron-right" id="close"></i>
+            </div>
+            <video src="images/0112.mp4" controls id="video" class=""></video>
+        </div>
+    </section>
+
+    <section id="feature" class="">
+        <h2>Les services que nous offrons</h2>
+        <p>Guaranties a 100% </p> 
+        <div class="feaContainer"> 
+            <div class="featureBox">
+                <img src="/Public/images/Free.svg" alt="img" width="80px">
+                <h6>Livraison Gratuite</h6>
+            </div>
+
+            <div class="featureBox">
+                <img src="/Public/images/Order.svg" alt="img" width="80px">
+                <h6>Commander en Ligne</h6>
+            </div>
+
+            <div class="featureBox">
+                <img src="/Public/images/Save.svg" alt="img" width="80px">
+                <h6>Sauver l'Argent</h6>
+            </div>
+
+            <div class="featureBox">
+                <img src="/Public/images/Prom.svg" alt="img" width="80px">
+                <h6>Promotions</h6>
+            </div>
+
+            <div class="featureBox">
+                <img src="/Public/images/happy.svg" alt="img" width="80px">
+                <h6>Vente Assuree</h6>
+            </div>
+
+            <div class="featureBox">
+                <img src="/Public/images/24 7support.svg" alt="img" width="80px">
+                <h6>24/7 Support</h6>
+            </div>
+
+        </div>
+    </section>
+
+    <section id="product1">
+        <h2> Produits Disponibles</h2>
+        <p>En vente sur la toile</p>
+        <div id="proContainer"></div>
+        <div id="modalOverlay"></div>
+    </section>
+
+    <section id="client" class="">
+        <div class="clientContainer">
+            <h3>Vous avez trouve quelque chose qui vous convient?</h3>
+           <div class="persone-resource">
+                <div id="whatsApp" class="">
+                    <form action="#" id="whatsAppForm">
+                        <div class="name">
+                            <label for="name">Nom Complet:</label>
+                            <input type="text" id="name" name="user_name" placeholder="Nom Complet" required/>
+                        </div>
+                        <div class="tel">
+                            <label for="tel">Telephone:</label>
+                            <input type="tel" id="tel" name="user_tel" placeholder="(+225) 01-01-01-01-01" required/>
+                        </div>
+                        <div class="Order">
+                            <label for="Order">Ma Commande:</label>
+                            <select id="Order" name="Order_list" required>
+                                <option value="">--</option>
+                            </select>
+                        </div>
+                        <div class="consent">
+                            <p>Je consent a l'utilisation de mes donnees pour me contacter</p>
+                            <div class="consent_response">
+                                <label for="accept"></label>
+                                <input type="checkbox" id="accept" name="user_consent" required>
+                            </div>
+                        </div>
+                        <div class="submitbtn">
+                            <button type="submit" id="Send" class="sendbtn">Envoyer ma commande par WhatsApp</button>
+                        </div>
+                    </form>
+                    <button id="moreChoices">Utiliser d'autres moyens</button>
+                </div>
+
+                <div id="profile" class="">
+                    <img src="images/pro2.JPG" alt="img" width="50%">
+                    <h6>Komenan Eric</h6>
+                    <h7>Personne resource a Abidjan</h7>
+                    <p>Vous serez prompte dans l'application de votre choix</p>
+                    <div class="pro-links">
+                        <a href="https://www.facebook.com/komenaneric.eric"><i class="fa-brands fa-facebook"></i></a>
+                        <a href="https://www.instagram.com/marie_gain7/"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="tel:+2250151997515"><i class="fa-solid fa-comment-sms"></i></a>
+                    </div>
+                </div>
+           </div>
+        </div>
+    </section>
+
+    <section id="banner" class="">
+        <h4>Nouvelles Promotions</h4>
+        <h2>Jusqu'a <span>30%</span> de reduction sur tous nos accessoires</h2>
+        <button class="normal">Explorer plus</button>
+    </section>
+
+    <section id="contacts" class="">
+        <div class="footer-col">
+            <div class="img">
+                <img src="images/pro1.jpg" alt="img" width="50%">
+            </div>
+            <div class="others">
+                <p>Site code, cree et gere par Kouame Kokora. Joignable sur les reseaux suivant:</p>
+                <div class="pro-links">
+                    <a href="https://www.facebook.com/kokora.nestor/"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/k.o.d.art/"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="https://x.com/41b5c690404a491"><i class="fa-brands fa-twitter"></i></a>
+                    <a href="https://wa.me/15068665144" target="https://wa.aisensy.com/aaauhg"><i class="fa-brands fa-whatsapp"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>Copyright @2022. All rights reserved/ This temple is made by CAEBOU</p>
+        </div>
+    </section>
+    <script type="module" src="app.js"></script>
+</body>
+</html>
