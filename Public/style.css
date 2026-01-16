@@ -391,7 +391,6 @@ nav .navigation i {
     background-color: white;
     min-height: fit-content;
     transition: 0.3s ease;
-    overflow-y: scroll;
 }
 
 #product1 .imagecontain {
