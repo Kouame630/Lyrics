@@ -186,7 +186,7 @@ fetch('Public/produits.json')
 
         let j = 0
         let currentproductimage = document.createElement('img')
-        currentproductimage.src = `/${json.Produits[i].images[j]}`
+        currentproductimage.src = `${json.Produits[i].images[j]}`
         currentproductimage.alt = `img`
         const imagecontainer = document.createElement('div')
         imagecontainer.className = 'imagecontain'
@@ -319,20 +319,20 @@ fetch('Public/produits.json')
         next.addEventListener('click', (e) => {
             if ( j < json.Produits[i].images.length-1) {
                 j++
-                currentproductimage.src = `/${json.Produits[i].images[j]}`
+                currentproductimage.src = `${json.Produits[i].images[j]}`
             } else if (j = json.Produits[i].images.length-1){
                 j = 0
-                currentproductimage.src = `/${json.Produits[i].images[j]}`
+                currentproductimage.src = `${json.Produits[i].images[j]}`
             }
         })
 
         previous.addEventListener('click', (e) => {
             if ( j > 0) {
                 j--
-                currentproductimage.src = `/${json.Produits[i].images[j]}`
+                currentproductimage.src = `${json.Produits[i].images[j]}`
             } else if (j = 1){
                 j = json.Produits[i].images.length-1
-                currentproductimage.src = `/${json.Produits[i].images[j]}`
+                currentproductimage.src = `${json.Produits[i].images[j]}`
             }
         })
 
