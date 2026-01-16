@@ -153,7 +153,7 @@ tutoClose.addEventListener('click', () => {
     }
 })
 
-fetch('/Public/produits.json')
+fetch('Public/produits.json')
 .then(response => response.json())
 .then(json => {
     for (let i = 0; i < json.Produits.length; i++) {
