@@ -132,7 +132,7 @@ nav .navigation i {
 }
 
 #hero {
-    background-image: url('Public/images/IMG_4489.JPG');
+    background-image: url('images/IMG_4489.JPG');
     height: 90vh;
     min-height: fit-content;
     width: 100%;
@@ -249,7 +249,7 @@ nav .navigation i {
 }
 
 #hero button {
-    background-image: url('Public/images/Shop-now.svg');
+    background-image: url('images/Shop-now.svg');
     background-color: transparent;
     background-size: cover;
     background-position: top 45% right 0;
@@ -852,7 +852,7 @@ form div input, form div select{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('Public/images/Save.svg');
+    background-image: url('images/Save.svg');
     width: 100%;
     min-height: 90vh;
     margin: 40px 0;
