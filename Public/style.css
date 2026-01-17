@@ -840,6 +840,21 @@ form div input, form div select{
     margin-top: 10px;
 }
 
+#returnwhat {
+    background-color: #713e04;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+#moreChoices:hover, #returnwhat:hover {
+    background-color: #653702;
+}
+
 #moreChoices:hover {
     background-color: #5f3505;
 }

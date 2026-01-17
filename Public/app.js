@@ -400,11 +400,17 @@ document.getElementById("whatsAppForm").addEventListener("submit", function (eve
 });
 
 const otherContacts = document.getElementById('moreChoices')
+const returnwats = document.getElementById('returnwhat')
 const wats = document.getElementById('whatsApp')
 const others = document.getElementById('profile')
 otherContacts.addEventListener('click', () => {
     wats.classList.add('active')
     others.classList.add('active')
+})
+
+returnwats.addEventListener('click', () => {
+    wats.classList.remove('active')
+    others.classList.remove('active')
 })
 
 // const submitbtn = document.querySelector('.sendbtn')
