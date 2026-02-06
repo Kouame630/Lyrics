@@ -191,7 +191,12 @@ fetch('Public/produits.json')
         const imagecontainer = document.createElement('div')
         imagecontainer.className = 'imagecontain'
         div.appendChild(imagecontainer)
+        const priceContainer = document.createElement('div')
+        priceContainer.className = 'price'
+        priceContainer.innerText = `${json.Produits[i].Prix} Mill`
+        imagecontainer.appendChild(priceContainer)
         imagecontainer.appendChild(currentproductimage)
+
         const descContainer = document.createElement('div')
         imagecontainer.appendChild(descContainer)
         const imagedescription = document.createElement('p')
@@ -339,20 +344,28 @@ fetch('Public/produits.json')
         const info = document.createElement('div')
         info.className = 'des'
         div.appendChild(info)
+        const comp = document.createElement('div')
+        comp.className = 'components'
+        info.appendChild(comp)
+        const book = document.createElement('div')
+        book.className = 'basket'
+        info.appendChild(book)
         const brand = document.createElement('span')
         brand.innerText = `${json.Produits[i].nom}`
-        info.appendChild(brand)
+        comp.appendChild(brand)
         const desc = document.createElement('h5')
         desc.innerText = `${json.Produits[i].couleur} ${json.Produits[i].capacite}`
-        info.appendChild(desc)
+        comp.appendChild(desc)
         const state = document.createElement('div')
         state.className = 'star'
-        info.appendChild(state)
+        comp.appendChild(state)
         const star1 = document.createElement('i')
         const star2 = document.createElement('i')
         const star3 = document.createElement('i')
         const star4 = document.createElement('i')
         const star5 = document.createElement('i')
+
+        const bask = document.createElement('i')
 
         star1.className = 'fa-solid fa-star'
         star2.className = 'fa-solid fa-star'
@@ -360,11 +373,16 @@ fetch('Public/produits.json')
         star4.className = 'fa-solid fa-star'
         star5.className = 'fa-solid fa-star'
 
+        bask.className = 'fa-solid fa-bag-shopping'
+
         state.appendChild(star1)
         state.appendChild(star2)
         state.appendChild(star3)
         state.appendChild(star4)
         state.appendChild(star5)
+
+        book.appendChild(bask)
+
         let drawList = document.createElement('option')
         drawList.innerText = `${json.Produits[i].capacite} ${json.Produits[i].nom} ${json.Produits[i].couleur}`
         drawList.setAttribute('value', `${json.Produits[i].capacite} ${json.Produits[i].nom} ${json.Produits[i].couleur}`)
