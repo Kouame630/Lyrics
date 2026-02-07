@@ -374,7 +374,7 @@ fetch('Public/produits.json')
         star4.className = 'fa-solid fa-star'
         star5.className = 'fa-solid fa-star'
 
-        bask.className = 'fa-solid fa-bag-shopping'
+        bask.className = 'fa-solid fa-cart-arrow-down'
 
         state.appendChild(star1)
         state.appendChild(star2)
@@ -385,9 +385,17 @@ fetch('Public/produits.json')
         book.appendChild(bask)
 
         let drawList = document.createElement('option')
-        drawList.innerText = `${json.Produits[i].capacite} ${json.Produits[i].nom} ${json.Produits[i].couleur}`
-        drawList.setAttribute('value', `${json.Produits[i].capacite} ${json.Produits[i].nom} ${json.Produits[i].couleur}`)
+        drawList.innerText = `${json.Produits[i].capacite} ${json.Produits[i].nom} ${json.Produits[i].couleur} -${json.Produits[i].Prix} mill`
+        drawList.setAttribute('value', `${json.Produits[i].capacite} ${json.Produits[i].nom} ${json.Produits[i].couleur} -${json.Produits[i].Prix} mill`)
         oderOptions.appendChild(drawList)
+
+        bask.addEventListener('click', () => {
+            clients.scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            })
+            oderOptions.selectedIndex = i+1
+        })
     }
 })
 

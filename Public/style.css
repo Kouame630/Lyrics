@@ -415,7 +415,7 @@ nav .navigation i {
 }
 
 #product1 .pro .current i:hover {
-    font-size: 36px;
+    color: rgb(18, 106, 64);
     transition: 0.4s ease;
 }
 
