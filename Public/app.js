@@ -14,27 +14,6 @@ window.addEventListener('resize', function() {
   initialWidth = currentWidth;
 });
 
-const menuOpen = document.querySelector('#menu-btn')
-const menuClose = document.querySelector('#menu-close')
-const navigationMenu = document.querySelector('#navbar')
-
-menuOpen.addEventListener('click', () => {
-    menuOpen.classList.add('active')
-    menuClose.classList.add('active')
-    navigationMenu.classList.add('active')
-})
-
-menuClose.addEventListener('click', () => {
-    menuOpen.classList.remove('active')
-    menuClose.classList.remove('active')
-    navigationMenu.classList.remove('active')
-})
-
-
-const nav = document.querySelector("nav");
-const navLinks = document.querySelectorAll("#nav-link");
-const sections = document.querySelectorAll('section');
-
 document.addEventListener('DOMContentLoaded', () => {
     const observerOptions = {
         root: null, // observe against the viewport
@@ -63,6 +42,27 @@ document.addEventListener('DOMContentLoaded', () => {
         observer.observe(section);
     });
 });
+
+const menuOpen = document.querySelector('#menu-btn')
+const menuClose = document.querySelector('#menu-close')
+const navigationMenu = document.querySelector('#navbar')
+
+menuOpen.addEventListener('click', () => {
+    menuOpen.classList.add('active')
+    menuClose.classList.add('active')
+    navigationMenu.classList.add('active')
+})
+
+menuClose.addEventListener('click', () => {
+    menuOpen.classList.remove('active')
+    menuClose.classList.remove('active')
+    navigationMenu.classList.remove('active')
+})
+
+
+const nav = document.querySelector("#nav-container");
+const navLinks = document.querySelectorAll("#nav-link");
+const sections = document.querySelectorAll('section');
 
 navLinks.forEach(link => {
     link.addEventListener('click', () => {
@@ -95,6 +95,7 @@ sections.forEach(section => {
     }
 })
 })
+
 const listeProduit = document.querySelector('#proContainer')
 const modalOverlay = document.getElementById('modalOverlay')
 const navBar = document.querySelector('nav')
