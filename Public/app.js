@@ -390,6 +390,26 @@ fetch('Public/produits.json')
         oderOptions.appendChild(drawList)
 
         bask.addEventListener('click', () => {
+            let modal = openModalBtns.closest(openModalBtns.dataset.target)
+            openModalBtns.classList.remove('active')
+            closeModalBtn.classList.remove('active')
+            listeProduit.classList.remove('active')
+            navBar.classList.remove('active')
+            hero.classList.remove('active')
+            features.classList.remove('active')
+            clients.classList.remove('active')
+            banner.classList.remove('active')
+            contact.classList.remove('active')
+            if (modal == null) return
+            modal.classList.remove('active')
+            imagedescription.innerText= `${json.Produits[i].Desciptions[0]}`
+            modalOverlay.classList.remove('active')
+            modal.scrollIntoView({
+                behavior: 'auto',
+                block: 'start',
+                inline: 'start'
+            })
+            document.body.style.overflow = 'auto'
             clients.scrollIntoView({
                 behavior: 'smooth',
                 block: 'start'
