@@ -52,6 +52,179 @@
         ]
         },
 
+        {
+        "nom": "Android S25 Ultra",
+        "couleur": "Jaune",
+        "capacite": "64Gb",
+        "Prix": 50,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique Android S25, d'une superbe couleur jaune, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", 
+                        "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                        "• État de la batterie : Capacité maximale de 85 %, pour une autonomie d’une journée entière. • Contenu de la boîte : Boîte d’origine."
+                    ],
+        "images": [
+            "Produits/Android S25 Yellow/IMG_9797.JPG", "Produits/Android S25 Yellow/IMG_9799.JPG",
+            "Produits/Android S25 Yellow/IMG_9802.JPG", "Produits/Android S25 Yellow/IMG_9803.JPG", 
+            "Produits/Android S25 Yellow/IMG_9804.JPG"
+        ]
+        },
+
+        {
+        "nom": "Android S25+",
+        "couleur": "Noire",
+        "capacite": "128Gb",
+        "Prix": 60,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique Android S25+, d'une couleur noir, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", 
+                        "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                        "• État de la batterie : Capacité maximale de 85 %, pour une autonomie d’une journée entière. • Contenu de la boîte : Boîte d’origine."
+                    ],
+        "images": [
+            "Produits/Android S25+ Midnight Black/IMG_9805.JPG", "Produits/Android S25+ Midnight Black/IMG_9806.JPG",
+            "Produits/Android S25+ Midnight Black/IMG_9807.JPG", "Produits/Android S25+ Midnight Black/IMG_9809.JPG"
+        ]
+        },
+
+        {
+        "nom": "Google Pixel 6a",
+        "couleur": "Noire",
+        "capacite": "128Gb",
+        "Prix": 100,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique Google Pixel 6a, de couleur noire, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", 
+                        "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                        "• État de la batterie : Capacité maximale de 85 %, pour une autonomie d’une journée entière. • Contenu de la boîte : Boîte d’origine."
+                    ],
+        "images": [
+            "Produits/Google Pixel 6a/IMG_9749.JPG", "Produits/Google Pixel 6a/IMG_9750.JPG",
+            "Produits/Google Pixel 6a/IMG_9751.JPG", "Produits/Google Pixel 6a/IMG_9752.JPG",
+            "Produits/Google Pixel 6a/IMG_9754.JPG", "Produits/Google Pixel 6a/IMG_9759.JPG"
+        ]
+        },
+
+        {
+        "nom": "Iphone12",
+        "couleur": "Violet",
+        "capacite": "128Gb",
+        "Prix": 100,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique iPhone12, de couleur violet, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", 
+                        "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                        "• État de la batterie : Capacité maximale de 85 %, pour une autonomie d’une journée entière. • Contenu de la boîte : Boîte d’origine."
+                    ],
+        "images": [
+            "Produits/Iphone12 Purple/IMG_9767.JPG", "Produits/Iphone12 Purple/IMG_9768.JPG", 
+            "Produits/Iphone12 Purple/IMG_9769.JPG", "Produits/Iphone12 Purple/IMG_9772.JPG", 
+            "Produits/Iphone12 Purple/IMG_9773.JPG", "Produits/Iphone12 Purple/IMG_9775.JPG"
+        ]
+        },
+
+        {
+        "nom": "Iphone13 Pro",
+        "couleur": "Noire minuit",
+        "capacite": "128Gb",
+        "Prix": 150,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique iPhone13 Pro, de couleur noir fonce, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", 
+                        "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                        "• État de la batterie : Capacité maximale de 85 %, pour une autonomie d’une journée entière. • Contenu de la boîte : Boîte d’origine."
+                    ],
+        "images": [
+            "Produits/Iphone13 Midnight Black/IMG_9735.JPG", "Produits/Iphone13 Midnight Black/IMG_9736.JPG", 
+            "Produits/Iphone13 Midnight Black/IMG_9737.JPG", "Produits/Iphone13 Midnight Black/IMG_9738.JPG", 
+            "Produits/Iphone13 Midnight Black/IMG_9739.JPG", "Produits/Iphone13 Midnight Black/IMG_9744.JPG", 
+            "Produits/Iphone13 Midnight Black/IMG_9745.JPG"
+        ]
+        },
+
+        {
+        "nom": "Iphone13 Pro",
+        "couleur": "Noire minuit",
+        "capacite": "128Gb",
+        "Prix": 150,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique iPhone13 Pro, d'un superb noir fonce, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", 
+                        "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                        "• État de la batterie : Capacité maximale de 85 %, pour une autonomie d’une journée entière. • Contenu de la boîte : Boîte d’origine."
+                    ],
+        "images": [
+            "Produits/Iphone13 Midnight Black-no box/IMG_9810.JPG", "Produits/Iphone13 Midnight Black-no box/IMG_9811.JPG",
+            "Produits/Iphone13 Midnight Black-no box/IMG_9812.JPG", "Produits/Iphone13 Midnight Black-no box/IMG_9813.JPG", 
+            "Produits/Iphone13 Midnight Black-no box/IMG_9815.JPG", "Produits/Iphone13 Midnight Black-no box/IMG_9818.JPG", 
+            "Produits/Iphone13 Midnight Black-no box/IMG_9822.JPG"
+        ]
+        },
+
+        {
+        "nom": "Iphone13 Pro",
+        "couleur": "Noire minuit",
+        "capacite": "128Gb",
+        "Prix": 200,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique iPhone14 Pro, d'un superb noir, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", 
+                        "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                        "• État de la batterie : Capacité maximale de 85 %, pour une autonomie d’une journée entière. • Contenu de la boîte : Boîte d’origine."
+                    ],
+        "images": [
+            "Produits/Iphone14 Midnight Black/IMG_9824.JPG", "Produits/Iphone14 Midnight Black/IMG_9825.JPG", 
+            "Produits/Iphone14 Midnight Black/IMG_9827.JPG", "Produits/Iphone14 Midnight Black/IMG_9828.JPG", 
+            "Produits/Iphone14 Midnight Black/IMG_9829.JPG", "Produits/Iphone14 Midnight Black/IMG_9831.JPG"
+        ]
+        },
+
+        {
+        "nom": "Samsung Galaxy A54",
+        "couleur": "Noire",
+        "capacite": "128Gb",
+        "Prix": 180,
+        "Statut": true, 
+        "Desciptions": ["Ce magnifique Samsung Galaxy A54, d'un superb noir, est prêt à trouver son prochain propriétaire ! Soigneusement entretenu, il est débloqué pour tous les opérateurs, vous offrant une flexibilité totale. Profitez d'une connectivité 5G ultra-rapide pour un streaming fluide et des jeux sans latence, même en déplacement.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", 
+                        "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                        "• État de la batterie : Capacité maximale de 85 %, pour une autonomie d’une journée entière. • Contenu de la boîte : Boîte d’origine."
+                    ],
+        "images": [
+            "Produits/Samsung Galaxy A54 5G/IMG_0157.JPG", "Produits/Samsung Galaxy A54 5G/IMG_0159.JPG", 
+            "Produits/Samsung Galaxy A54 5G/IMG_0163.JPG", "Produits/Samsung Galaxy A54 5G/IMG_0167.JPG", 
+            "Produits/Samsung Galaxy A54 5G/IMG_0170.JPG", "Produits/Samsung Galaxy A54 5G/IMG_0184.JPG", 
+            "Produits/Samsung Galaxy A54 5G/IMG_0191.JPG", "Produits/Samsung Galaxy A54 5G/IMG_0197.JPG"
+        ]
+        },
+
+        {
+        "nom": "Samsung Galaxy watch Active2",
+        "couleur": "Noire",
+        "capacite": "16GB",
+        "Prix": 50,
+        "Statut": true, 
+        "Desciptions": ["Cette magnifique montre Samsung Active2, de couleur noire, est prêt à trouver son prochain propriétaire! Casi nouveau, il est idéal pour les personnes actives pour aider a tracker les mouvements, sommeille, circulation sanguine et autres facteurs de sante.",
+                        "• État : Excellent (Grade A) - aucune rayure ni marque d'impact visible ; écran fonctionnel sans pixel mort.", "• Stockage : 128 Go de capacité généreuse pour stocker toutes vos photos, applications et fichiers multimédias en toute tranquillité.", 
+                        "• Couleur : Superbe finition gris sur un boîtier robuste entièrement métallique.", "• Connectivité : Débloqué pour une utilisation avec tous les insérez simplement votre carte SIM et c'est parti !", 
+                        "• Appareil photo : Son puissant système photo professionnel (objectifs 12 Mpx principal, ultra grand-angle et téléobjectif) vous permet de capturer des photos et des vidéos d'une netteté exceptionnelle, quelles que soient les conditions d'éclairage.", "• Performances : Équipé de la puce A14 Bionique pour un multitâche fluide et une expérience utilisateur optimale.", 
+                        "• État de la batterie : Capacité maximale de 85 %, pour une autonomie d’une journée entière. • Contenu de la boîte : Boîte d’origine."
+                    ],
+        "images": [
+            "Produits/Samsung Galaxy watch Active2/IMG_9780.JPG", "Produits/Samsung Galaxy watch Active2/IMG_9782.JPG", 
+            "Produits/Samsung Galaxy watch Active2/IMG_9783.JPG", "Produits/Samsung Galaxy watch Active2/IMG_9784.JPG", 
+            "Produits/Samsung Galaxy watch Active2/IMG_9792.JPG"
+        ]
+        },
+
         
         {
             "nom": "Iphone16",
